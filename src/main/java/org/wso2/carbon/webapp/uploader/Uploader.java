@@ -1,4 +1,4 @@
-package org.wso2.carbon.webapp.mgt.ui;
+package org.wso2.carbon.webapp.uploader;
 
 import org.apache.axis2.AxisFault;
 import org.apache.axis2.Constants;
